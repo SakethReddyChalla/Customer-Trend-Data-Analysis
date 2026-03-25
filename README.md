@@ -18,7 +18,7 @@ The dashboard provides insights into customer segments, spending behavior, and p
 
 ---
 
-##📌Tools Usage
+📌Tools Usage
 
 - Power BI
 - Excel
